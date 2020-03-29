@@ -1,0 +1,8 @@
+{
+  "name": "semanaomnistack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MichellyLima/be-the-hero.git",
+  "author": "Michelly Lima <michelly_slima@outlook.com>",
+  "license": "MIT"
+}
